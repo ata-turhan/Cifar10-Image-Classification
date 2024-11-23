@@ -1,4 +1,4 @@
-## CIFAR-10 Image Classification with Convolutional Neural Networks
+# CIFAR-10 Image Classification with Convolutional Neural Networks
 
 Welcome to this Kaggle notebook repository for CIFAR-10 image classification. In this project, we build a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images from the CIFAR-10 dataset, which consists of 60,000 32x32 color images across 10 classes. This project is structured to guide you through each step of the machine learning pipeline, from data extraction to model training and evaluation, culminating in a submission for Kaggle evaluation.
 
